@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "WDD130-2",
+			"path": "../../Desktop/WDD130 - 2/WDD130-2"
+		},
+		{
+			"name": "positioning",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "positioning"
+	}
+}

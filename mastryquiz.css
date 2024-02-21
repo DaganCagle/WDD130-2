@@ -1,0 +1,27 @@
+h1 {
+    font-size: 2em;
+}
+
+.hello {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.blue {
+    font-size: 3em;
+    background-color: blue;
+    color: white;
+}
+
+img {
+    width: 350px;
+    padding: 15px;
+}
+
+section {
+    margin: 50px;
+    background-color: grey;
+    border: 2px;
+    border-color: black;
+}

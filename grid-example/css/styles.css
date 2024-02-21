@@ -1,0 +1,35 @@
+body {
+    background-color: purple;
+}
+
+section {
+    padding: 30px;
+}
+
+#food {
+    background-color: darkkhaki;
+    grid-column: 1/-1;
+}
+
+.favcolor {
+    background-color: darkmagenta;
+    color: bisque;
+}
+
+.awesome {
+    background-color: gold;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.awesome div {
+    background-color: silver;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 200px 1fr 300px;
+    max-width: 700px;
+    border: solid 1px;
+}
+
